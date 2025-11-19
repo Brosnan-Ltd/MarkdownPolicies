@@ -1,5 +1,9 @@
 title: Policies
 description: Official company policies and employee handbook
+# baseurl: "https://brosnan-ltd.github.io"
+# url: "/MarkdownPolicies"
+
+
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 color_scheme: brosnanOrange
